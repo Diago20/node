@@ -1,0 +1,71 @@
+{
+  "profesores": [
+    {
+      "apellido": "roso",
+      "materias": [
+        {
+          "nombre": "calculo"
+        },
+        {
+          "nombre": "finansas"
+        }
+      ],
+      "id": "1e2e"
+    },
+    {
+      "0": {
+        "nombre": "camila",
+        "apellido": "consa",
+        "materias": [
+          {
+            "nombre": "biologia"
+          },
+          {
+            "nombre": "quimica"
+          }
+        ]
+      },
+      "id": "8a93"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "juan",
+      "apellido": "luz",
+      "promedio": 8.2,
+      "id": "a362"
+    },
+    {
+      "nombre": "daniela",
+      "apellido": "cruz",
+      "promedio": 7.2,
+      "id": "1653"
+    },
+    {
+      "nombre": "alejandro",
+      "apellido": "bago",
+      "promedio": 2.2,
+      "id": "7983"
+    }
+  ],
+  "curso": [
+    {
+      "nombre": "finanzas",
+      "duracion": 16,
+      "dificultad": "intermedia",
+      "id": "a9cd"
+    },
+    {
+      "nombre": "calculo",
+      "duracion": 5,
+      "dificultad": "basica",
+      "id": "8520"
+    },
+    {
+      "nombre": "economia",
+      "duracion": 30,
+      "dificultad": "alta",
+      "id": "228b"
+    }
+  ]
+}
